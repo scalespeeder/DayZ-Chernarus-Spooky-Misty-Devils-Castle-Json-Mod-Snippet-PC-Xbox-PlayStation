@@ -1,6 +1,6 @@
 DayZ Misty Devils Castle json Mod Changelog & Terms Of Use
 
-Limited Testing on PC Chernarus Local Server DAYZ EXPERIMENTAL Version 1.14 Oct 2021.
+Limited Testing on PC Chernarus Local Server DAYZ Version 1.14 Oct 2021.
 
 Created by @scalespeeder. Please report bugs & errors to scalespeeder@gmail.com with screenshots.
 
@@ -23,6 +23,6 @@ functioning of your server.
 This code snippet will spawn in a spooky mist in and around Devils Castle, in Chernarus.
 
 To install these snippets simply insert them into the correct position (near the top on a line after the firt [ Bracket)
- in yourcfgEffectArea.json file and restart your server.
+ in your cfgEffectArea.json file and restart your server.
  
  Thanks, Rob.
