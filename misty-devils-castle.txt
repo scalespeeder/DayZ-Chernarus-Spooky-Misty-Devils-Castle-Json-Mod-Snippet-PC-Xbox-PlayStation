@@ -1,0 +1,92 @@
+{ 	"AreaName": "Devils-Castle-N",    
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "effecttrigger",
+			"Data": { 
+				"Pos": [ 6886, 0, 11490 ], 
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
+		{ 	"AreaName": "Devils-Castle-SE",   
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "effecttrigger",
+			"Data": { 
+				"Pos": [ 6939, 0, 11392 ], 
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
+		{ 	"AreaName": "Devils-Castle-SW", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "effecttrigger",
+			"Data": { 
+				"Pos": [ 6860, 0, 11385 ], 
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
+		{ 	"AreaName": "Devils-Castle-Gate-House", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "effecttrigger",
+			"Data": { 
+				"Pos": [ 6960, 0, 11337 ], 
+				"Radius": 100,
+				"PosHeight": 22,
+				"NegHeight": 10,
+				"InnerRingCount": 1,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 50, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/",
+				"TinyPartName": "graphics/particles/",
+				"PPERequesterType": ""
+			}
+		},
